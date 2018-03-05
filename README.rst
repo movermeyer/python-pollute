@@ -53,13 +53,13 @@ Example
    :target: https://coveralls.io/r/themattrix/python-pollute
 .. |Health| image:: https://landscape.io/github/themattrix/python-pollute/master/landscape.svg
    :target: https://landscape.io/github/themattrix/python-pollute/master
-.. |Version| image:: https://pypip.in/version/pollute/badge.svg?text=version
+.. |Version| image:: https://img.shields.io/pypi/v/pollute.svg?label=version
     :target: https://pypi.python.org/pypi/pollute
-.. |Downloads| image:: https://pypip.in/download/pollute/badge.svg
+.. |Downloads| image:: https://img.shields.io/pypi/dm/pollute.svg
     :target: https://pypi.python.org/pypi/pollute
-.. |Compatibility| image:: https://pypip.in/py_versions/pollute/badge.svg
+.. |Compatibility| image:: https://img.shields.io/pypi/pyversions/pollute.svg
     :target: https://pypi.python.org/pypi/pollute
-.. |Implementations| image:: https://pypip.in/implementation/pollute/badge.svg
+.. |Implementations| image:: https://img.shields.io/pypi/implementation/pollute.svg
     :target: https://pypi.python.org/pypi/pollute
-.. |Format| image:: https://pypip.in/format/pollute/badge.svg
+.. |Format| image:: https://img.shields.io/pypi/format/pollute.svg
     :target: https://pypi.python.org/pypi/pollute
